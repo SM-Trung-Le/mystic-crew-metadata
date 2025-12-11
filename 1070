@@ -1,0 +1,42 @@
+{
+  "name": "One Piece Card Game Two Legends",
+  "description": "",
+  "image": "https://tcgplayer-cdn.tcgplayer.com/product/558143_in_1000x1000.jpg",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Jewelry Bonney",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Two Legends",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": "OP08-105",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Variant",
+      "value": "Super Rare",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": 2024,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Category",
+      "value": "One Piece",
+      "display_type": "string"
+    }
+]
+}

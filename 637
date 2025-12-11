@@ -1,0 +1,42 @@
+{
+  "name": "Pokemon DESTINED RIVALS",
+  "description": "",
+  "image": "https://tcgplayer-cdn.tcgplayer.com/product/632878_in_1000x1000.jpg",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Cetitan ex",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "DESTINED RIVALS",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": "65",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Variant",
+      "value": "DOUBLE RARE",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": 2025,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Pokemon",
+      "display_type": "string"
+    }
+]
+}

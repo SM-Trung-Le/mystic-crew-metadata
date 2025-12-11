@@ -1,0 +1,45 @@
+{
+  "name": "One Piece Card Game Ultra Deck: The Three Captains",
+  "description": "",
+  "image": "https://tcgplayer-cdn.tcgplayer.com/product/525053_in_1000x1000.jpg",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Trafalgar Law (010)",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Ultra Deck: The Three Captains",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": "ST10-010",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Variant",
+      "value": "Super Rare",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": null,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Category",
+      "value": "One Piece",
+      "display_type": "string"
+    },
+
+
+
+  ]
+}

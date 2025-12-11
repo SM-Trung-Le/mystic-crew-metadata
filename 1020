@@ -1,0 +1,45 @@
+{
+  "name": "Pokemon STELLAR CROWN",
+  "description": "",
+  "image": "https://tcgplayer-cdn.tcgplayer.com/product/567267_in_1000x1000.jpg",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Greninja ex",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "STELLAR CROWN",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": "41",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Variant",
+      "value": "DOUBLE RARE",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": 2024,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Pokemon",
+      "display_type": "string"
+    },
+
+
+
+  ]
+}

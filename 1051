@@ -1,0 +1,42 @@
+{
+  "name": "One Piece Card Game Awakening of the New Era",
+  "description": "",
+  "image": "https://tcgplayer-cdn.tcgplayer.com/product/527024_in_1000x1000.jpg",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Monkey.D.Luffy",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Awakening of the New Era",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": "OP05-119",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Variant",
+      "value": "Secret Rare",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": 2023,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Category",
+      "value": "One Piece",
+      "display_type": "string"
+    }
+]
+}
